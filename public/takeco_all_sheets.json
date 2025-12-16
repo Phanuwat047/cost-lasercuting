@@ -1,0 +1,38 @@
+{
+  "Work piece": [
+    {
+      "name": "ชิ้นงาน A",
+      "thickness": 1,
+      "length": 1000,
+      "quantity": 1
+    },
+    {
+      "name": "ชิ้นงาน B",
+      "thickness": 2,
+      "length": 500,
+      "quantity": 2
+    }
+  ],
+  "Summary": [
+    {
+      "Parameter": "Energy Rate",
+      "Value": 0.05
+    },
+    {
+      "Parameter": "Labor Rate",
+      "Value": 0.1
+    },
+    {
+      "Parameter": "Machine Rate",
+      "Value": 0.08
+    },
+    {
+      "Parameter": "Gas Rate",
+      "Value": 0
+    },
+    {
+      "Parameter": "Setup Time (min)",
+      "Value": 0
+    }
+  ]
+}
